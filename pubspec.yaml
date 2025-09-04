@@ -1,0 +1,17 @@
+name: hafiz_biryani_pos
+description: POS App for Hafiz Chicken Tikka Biryani
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+
+flutter:
+  uses-material-design: true
